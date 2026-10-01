@@ -14,7 +14,7 @@ export default function Projects() {
         "Implemented a distribution tracking system to ensure transparency from warehouse to school delivery.",
         "Architected relational database schemas to handle complex data for recipes, ingredients, and multi-school meal schedules."
       ],
-      link: "nutrilog-demo.vercel.app" 
+      link: "nutrilog-iponkkkkk.vercel.app" 
     },
     {
       title: "SOL/USDC Market Monitor",
