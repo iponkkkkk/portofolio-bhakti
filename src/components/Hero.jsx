@@ -51,7 +51,7 @@ export default function Hero() {
       </div>
       
       {/* Container untuk efek mengetik dengan tinggi tetap agar layout tidak melompat */}
-      <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-white mb-4 min-h-[40px] md:min-h-[60px]">
+      <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-white mb-4 min-h-[80px] md:min-h-0">
         {displayedText}
         <span className="border-r-4 border-brand-500 ml-1 animate-pulse"></span>
       </h1>
